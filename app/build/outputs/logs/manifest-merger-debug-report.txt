@@ -1,0 +1,601 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:2:1-176:12
+INJECTED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:2:1-176:12
+INJECTED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:2:1-176:12
+INJECTED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:2:1-176:12
+MERGED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:2:1-51:12
+MERGED from [com.microsoft.projectoxford:speechrecognition:1.2.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\speechrecognition-1.2.2.aar\75efd4ea8034f74e20ac9c1b93a1edeb\AndroidManifest.xml:2:1-19:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\02a0e6355c981f77bc9d6b1dc239c81e\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.hotchemi:permissionsdispatcher:3.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\permissionsdispatcher-3.0.0.aar\71d25764f9a92c156628d89e961c0701\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\47f47541966c65919edb71733f836e00\AndroidManifest.xml:17:1-31:12
+MERGED from [com.zhy:base-rvadapter:3.0.3] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\base-rvadapter-3.0.3.aar\6aa6d40d7bdbf7704af8930f75bae86f\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\5faa1f4775dc4c6f8ec3d1556c069250\AndroidManifest.xml:17:1-28:12
+MERGED from [:wavelibrary] D:\AndroidProject\KOE-Voice\wavelibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [com.facebook.fresco:fresco:0.14.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\fresco-0.14.0.aar\614dc0656c93f7262550ab08e4ae0684\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.14.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-0.14.0.aar\53807e8148ce287afc5fd5bd9ba94653\AndroidManifest.xml:2:1-9:12
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.3] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\SmartRefreshLayout-1.0.3.aar\4e858b7e9af7e0c0af3219c6222ed125\AndroidManifest.xml:2:1-17:12
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.0.3] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\SmartRefreshHeader-1.0.3.aar\a811419d72b067ed88e659a381f73e34\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\35b12388712c54b00b63999bf68885fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e451fc6550a85992fc2560c69b43b7de\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\9db23322e428c60da5ab725d7f0ba8cb\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\bcaa32820146bb627f709086745f7a7e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\259042dc636e9f0f2262370e5830866b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\61031fcbb4a358490d9a219bebf7d2c2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\40aa3dee4d1e6606e96c29a987695a01\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\ba9659a3699fcfc359a511401e743bbd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fresco:imagepipeline:0.14.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\imagepipeline-0.14.0.aar\c0398b9b39a3f2f9715c680faa6ff914\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:0.14.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-0.14.0.aar\8dff8e9d8350db9440a43c4ba7cd7ccd\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\ae4b358e7b16cc31727d48d73225292a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\4be2e84ddba1e1338753c7be8b5e6d7a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fresco:drawee:0.14.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\drawee-0.14.0.aar\0b39353a3221ff4c6903fb75f12f3d02\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:0.14.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\fbcore-0.14.0.aar\f01ccba2fcaf549b3860494762c92601\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:2:1-176:12
+INJECTED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:2:1-176:12
+INJECTED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:2:1-176:12
+	package
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:3:5-24
+		INJECTED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.projectoxford:speechrecognition:1.2.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\speechrecognition-1.2.2.aar\75efd4ea8034f74e20ac9c1b93a1edeb\AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.projectoxford:speechrecognition:1.2.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\speechrecognition-1.2.2.aar\75efd4ea8034f74e20ac9c1b93a1edeb\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\02a0e6355c981f77bc9d6b1dc239c81e\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\02a0e6355c981f77bc9d6b1dc239c81e\AndroidManifest.xml:5:5-43
+MERGED from [com.github.hotchemi:permissionsdispatcher:3.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\permissionsdispatcher-3.0.0.aar\71d25764f9a92c156628d89e961c0701\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.hotchemi:permissionsdispatcher:3.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\permissionsdispatcher-3.0.0.aar\71d25764f9a92c156628d89e961c0701\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\47f47541966c65919edb71733f836e00\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\47f47541966c65919edb71733f836e00\AndroidManifest.xml:21:5-23:78
+MERGED from [com.zhy:base-rvadapter:3.0.3] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\base-rvadapter-3.0.3.aar\6aa6d40d7bdbf7704af8930f75bae86f\AndroidManifest.xml:8:5-10:41
+MERGED from [com.zhy:base-rvadapter:3.0.3] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\base-rvadapter-3.0.3.aar\6aa6d40d7bdbf7704af8930f75bae86f\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\5faa1f4775dc4c6f8ec3d1556c069250\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\5faa1f4775dc4c6f8ec3d1556c069250\AndroidManifest.xml:20:5-43
+MERGED from [:wavelibrary] D:\AndroidProject\KOE-Voice\wavelibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:wavelibrary] D:\AndroidProject\KOE-Voice\wavelibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:0.14.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\fresco-0.14.0.aar\614dc0656c93f7262550ab08e4ae0684\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:0.14.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\fresco-0.14.0.aar\614dc0656c93f7262550ab08e4ae0684\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.14.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-0.14.0.aar\53807e8148ce287afc5fd5bd9ba94653\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.14.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-0.14.0.aar\53807e8148ce287afc5fd5bd9ba94653\AndroidManifest.xml:5:5-7:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.3] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\SmartRefreshLayout-1.0.3.aar\4e858b7e9af7e0c0af3219c6222ed125\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.3] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\SmartRefreshLayout-1.0.3.aar\4e858b7e9af7e0c0af3219c6222ed125\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.0.3] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\SmartRefreshHeader-1.0.3.aar\a811419d72b067ed88e659a381f73e34\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.0.3] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\SmartRefreshHeader-1.0.3.aar\a811419d72b067ed88e659a381f73e34\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\35b12388712c54b00b63999bf68885fd\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\35b12388712c54b00b63999bf68885fd\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e451fc6550a85992fc2560c69b43b7de\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e451fc6550a85992fc2560c69b43b7de\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\9db23322e428c60da5ab725d7f0ba8cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\9db23322e428c60da5ab725d7f0ba8cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\bcaa32820146bb627f709086745f7a7e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\bcaa32820146bb627f709086745f7a7e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\259042dc636e9f0f2262370e5830866b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\259042dc636e9f0f2262370e5830866b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\61031fcbb4a358490d9a219bebf7d2c2\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\61031fcbb4a358490d9a219bebf7d2c2\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\40aa3dee4d1e6606e96c29a987695a01\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\40aa3dee4d1e6606e96c29a987695a01\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\ba9659a3699fcfc359a511401e743bbd\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\ba9659a3699fcfc359a511401e743bbd\AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fresco:imagepipeline:0.14.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\imagepipeline-0.14.0.aar\c0398b9b39a3f2f9715c680faa6ff914\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.14.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\imagepipeline-0.14.0.aar\c0398b9b39a3f2f9715c680faa6ff914\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.14.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-0.14.0.aar\8dff8e9d8350db9440a43c4ba7cd7ccd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.14.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-0.14.0.aar\8dff8e9d8350db9440a43c4ba7cd7ccd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\ae4b358e7b16cc31727d48d73225292a\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\ae4b358e7b16cc31727d48d73225292a\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\4be2e84ddba1e1338753c7be8b5e6d7a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\4be2e84ddba1e1338753c7be8b5e6d7a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fresco:drawee:0.14.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\drawee-0.14.0.aar\0b39353a3221ff4c6903fb75f12f3d02\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.14.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\drawee-0.14.0.aar\0b39353a3221ff4c6903fb75f12f3d02\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.14.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\fbcore-0.14.0.aar\f01ccba2fcaf549b3860494762c92601\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.14.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\fbcore-0.14.0.aar\f01ccba2fcaf549b3860494762c92601\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\47f47541966c65919edb71733f836e00\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:11:5-84
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:11:22-81
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:12:5-80
+MERGED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:11:5-80
+MERGED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:13:5-81
+MERGED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:12:5-81
+MERGED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:12:5-81
+MERGED from [com.microsoft.projectoxford:speechrecognition:1.2.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\speechrecognition-1.2.2.aar\75efd4ea8034f74e20ac9c1b93a1edeb\AndroidManifest.xml:16:5-81
+MERGED from [com.microsoft.projectoxford:speechrecognition:1.2.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\speechrecognition-1.2.2.aar\75efd4ea8034f74e20ac9c1b93a1edeb\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:14:5-72
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:14:22-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:15:5-72
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:15:22-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:16:5-69
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:16:22-66
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:17:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:18:5-79
+MERGED from [com.microsoft.projectoxford:speechrecognition:1.2.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\speechrecognition-1.2.2.aar\75efd4ea8034f74e20ac9c1b93a1edeb\AndroidManifest.xml:15:5-79
+MERGED from [com.microsoft.projectoxford:speechrecognition:1.2.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\speechrecognition-1.2.2.aar\75efd4ea8034f74e20ac9c1b93a1edeb\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:19:5-76
+MERGED from [com.microsoft.projectoxford:speechrecognition:1.2.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\speechrecognition-1.2.2.aar\75efd4ea8034f74e20ac9c1b93a1edeb\AndroidManifest.xml:14:5-76
+MERGED from [com.microsoft.projectoxford:speechrecognition:1.2.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\speechrecognition-1.2.2.aar\75efd4ea8034f74e20ac9c1b93a1edeb\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:19:22-73
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:20:5-67
+MERGED from [com.microsoft.projectoxford:speechrecognition:1.2.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\speechrecognition-1.2.2.aar\75efd4ea8034f74e20ac9c1b93a1edeb\AndroidManifest.xml:11:5-67
+MERGED from [com.microsoft.projectoxford:speechrecognition:1.2.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\speechrecognition-1.2.2.aar\75efd4ea8034f74e20ac9c1b93a1edeb\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:21:22-73
+uses-permission#android.permission.CAMERA
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:23:5-65
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:23:22-62
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:26:22-78
+uses-feature#android.hardware.camera
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:28:5-60
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:28:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:29:5-70
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:29:19-67
+uses-permission#android.permission.VIBRATE
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:31:5-66
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:31:22-63
+uses-permission#android.permission.FLASHLIGHT
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:32:5-69
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:32:22-66
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:33:5-71
+MERGED from [com.microsoft.projectoxford:speechrecognition:1.2.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\speechrecognition-1.2.2.aar\75efd4ea8034f74e20ac9c1b93a1edeb\AndroidManifest.xml:12:5-71
+MERGED from [com.microsoft.projectoxford:speechrecognition:1.2.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\speechrecognition-1.2.2.aar\75efd4ea8034f74e20ac9c1b93a1edeb\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:33:22-68
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:36:5-79
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:36:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:39:5-75
+MERGED from [com.microsoft.projectoxford:speechrecognition:1.2.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\speechrecognition-1.2.2.aar\75efd4ea8034f74e20ac9c1b93a1edeb\AndroidManifest.xml:17:5-75
+MERGED from [com.microsoft.projectoxford:speechrecognition:1.2.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\speechrecognition-1.2.2.aar\75efd4ea8034f74e20ac9c1b93a1edeb\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:39:22-72
+application
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:42:5-174:19
+MERGED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:14:5-49:19
+MERGED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:14:5-49:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\47f47541966c65919edb71733f836e00\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\47f47541966c65919edb71733f836e00\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\5faa1f4775dc4c6f8ec3d1556c069250\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\5faa1f4775dc4c6f8ec3d1556c069250\AndroidManifest.xml:22:5-26:19
+MERGED from [:wavelibrary] D:\AndroidProject\KOE-Voice\wavelibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-15:19
+MERGED from [:wavelibrary] D:\AndroidProject\KOE-Voice\wavelibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-15:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.3] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\SmartRefreshLayout-1.0.3.aar\4e858b7e9af7e0c0af3219c6222ed125\AndroidManifest.xml:11:5-15:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.3] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\SmartRefreshLayout-1.0.3.aar\4e858b7e9af7e0c0af3219c6222ed125\AndroidManifest.xml:11:5-15:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.0.3] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\SmartRefreshHeader-1.0.3.aar\a811419d72b067ed88e659a381f73e34\AndroidManifest.xml:11:5-15:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.0.3] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\SmartRefreshHeader-1.0.3.aar\a811419d72b067ed88e659a381f73e34\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e451fc6550a85992fc2560c69b43b7de\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e451fc6550a85992fc2560c69b43b7de\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\9db23322e428c60da5ab725d7f0ba8cb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\9db23322e428c60da5ab725d7f0ba8cb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\bcaa32820146bb627f709086745f7a7e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\bcaa32820146bb627f709086745f7a7e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\259042dc636e9f0f2262370e5830866b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\259042dc636e9f0f2262370e5830866b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\61031fcbb4a358490d9a219bebf7d2c2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\61031fcbb4a358490d9a219bebf7d2c2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\40aa3dee4d1e6606e96c29a987695a01\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\40aa3dee4d1e6606e96c29a987695a01\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\ba9659a3699fcfc359a511401e743bbd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\ba9659a3699fcfc359a511401e743bbd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\ae4b358e7b16cc31727d48d73225292a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\ae4b358e7b16cc31727d48d73225292a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\4be2e84ddba1e1338753c7be8b5e6d7a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\4be2e84ddba1e1338753c7be8b5e6d7a\AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:45:9-41
+	android:icon
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:44:9-37
+	android:allowBackup
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:43:9-35
+	android:theme
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:46:9-40
+activity#com.voice.activity.WelcomeActivity
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:47:9-56:20
+	android:label
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:49:13-45
+	android:theme
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:50:13-66
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:48:13-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:51:13-55:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:52:17-69
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:52:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:54:17-77
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:54:27-74
+activity#com.voice.study.StudyChoice
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:57:9-62:48
+	android:screenOrientation
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:61:13-49
+	android:label
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:60:13-45
+	android:configChanges
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:59:13-63
+	android:theme
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:62:13-45
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:58:13-46
+activity#com.voice.activity.DifficultychoseActivity
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:63:9-70
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:63:19-67
+activity#com.voice.activity.PracticeActivity
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:64:9-63
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:64:19-60
+activity#com.voice.activity.HornorActivity
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:65:9-61
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:65:19-58
+activity#com.voice.activity.LoginActivity
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:66:9-69:69
+	android:launchMode
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:68:13-44
+	android:theme
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:69:13-66
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:67:13-51
+activity#com.voice.MainActivity
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:70:9-73:55
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:73:13-52
+	android:theme
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:72:13-66
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:71:13-41
+activity#com.voice.register.RegisterPhoneActivity
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:74:9-76:69
+	android:theme
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:76:13-66
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:75:13-59
+activity#com.voice.register.RegisterInfoActivity
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:77:9-79:69
+	android:theme
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:79:13-66
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:78:13-58
+activity#com.voice.register.RegisterResultActivity
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:80:9-82:69
+	android:theme
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:82:13-66
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:81:13-60
+activity#com.voice.activity.ErcodeScanActivity
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:83:9-85:69
+	android:theme
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:85:13-66
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:84:13-56
+activity#com.voice.activity.WaterCameraActivity
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:86:9-88:69
+	android:theme
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:88:13-66
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:87:13-57
+activity#com.voice.activity.WaterPhotoActivity
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:89:9-91:69
+	android:theme
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:91:13-66
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:90:13-56
+activity#com.voice.activity.QQconstactActivity
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:92:9-95:55
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:95:13-52
+	android:theme
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:94:13-66
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:93:13-56
+activity#com.voice.activity.WiFiActivity
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:96:9-98:69
+	android:theme
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:98:13-66
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:97:13-50
+activity#com.voice.activity.NewArticleActivity
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:99:9-65
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:99:19-62
+activity#com.voice.activity.TestActivity
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:100:9-59
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:100:19-56
+activity#com.voice.sidebar_calendarview.Characterset
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:101:9-104:48
+	android:label
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:103:13-37
+	android:theme
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:104:13-45
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:102:13-62
+activity#com.voice.sidebar_calendarview.SetplanActivity
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:105:9-108:48
+	android:label
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:107:13-37
+	android:theme
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:108:13-45
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:106:13-65
+activity#com.voice.sidebar_calendarview.BookCoverActivity
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:109:9-112:48
+	android:label
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:111:13-37
+	android:theme
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:112:13-45
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:110:13-67
+activity#com.voice.activity.ChangeInfo
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:113:9-57
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:113:19-54
+activity#com.voice.sidebar.Feedback
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:114:9-117:48
+	android:label
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:116:13-35
+	android:theme
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:117:13-45
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:115:13-45
+activity#com.voice.study.StudyActivity
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:118:9-121:48
+	android:label
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:120:13-45
+	android:theme
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:121:13-45
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:119:13-48
+activity#com.voice.activity.WebActivity
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:122:9-58
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:122:19-55
+activity#com.voice.sort.SelectPicPopupWindow
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:123:9-125:58
+	android:theme
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:125:13-55
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:124:13-54
+activity#com.voice.bbs.Reply
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:127:9-129:44
+	android:theme
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:129:13-41
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:128:13-38
+receiver#com.voice.widget.Wordroid_Widget
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:131:9-147:20
+	android:label
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:134:13-34
+	android:icon
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:133:13-41
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:132:13-51
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:135:13-137:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:136:17-84
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:136:25-81
+intent-filter#ADD+LAST+NEXT
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:138:13-142:29
+action#NEXT
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:139:17-47
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:139:25-44
+action#LAST
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:140:17-47
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:140:25-44
+action#ADD
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:141:17-46
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:141:25-43
+meta-data#android.appwidget.provider
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:144:13-146:55
+	android:resource
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:146:17-52
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:145:17-58
+receiver#com.voice.business.makeNotify
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:148:9-155:20
+	android:process
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:150:13-38
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:149:13-48
+intent-filter#android.intent.action.BOOT_COMPLETED+shownotify
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:151:13-154:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:152:17-79
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:152:25-76
+action#shownotify
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:153:17-53
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:153:25-50
+service#com.voice.wifi.foregin.FTPServerService
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:157:9-66
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:157:18-63
+meta-data#com.baidu.speech.APP_ID
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:159:9-161:40
+	android:value
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:161:13-37
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:160:13-51
+meta-data#com.baidu.speech.API_KEY
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:162:9-164:56
+	android:value
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:164:13-53
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:163:13-52
+meta-data#com.baidu.speech.SECRET_KEY
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:165:9-167:64
+	android:value
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:167:13-61
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:166:13-55
+service#com.baidu.speech.VoiceRecognitionService
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:169:9-171:40
+	android:exported
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:171:13-37
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:170:13-68
+activity#com.voice.activity.LookPicActivity
+ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:173:9-71
+	android:name
+		ADDED from D:\AndroidProject\KOE-Voice\app\src\main\AndroidManifest.xml:173:19-59
+provider#android.support.v4.content.FileProvider
+ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:19:9-27:20
+	android:grantUriPermissions
+		ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:23:13-47
+	android:authorities
+		ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:21:13-60
+	android:exported
+		ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:20:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:24:13-26:58
+	android:resource
+		ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:26:17-55
+	android:name
+		ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:25:17-67
+activity#com.imnjh.imagepicker.activity.PhotoPickerActivity
+ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:29:9-32:53
+	android:screenOrientation
+		ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:31:13-49
+	android:theme
+		ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:32:13-50
+	android:name
+		ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:30:13-78
+activity#com.imnjh.imagepicker.activity.PickerPreviewActivity
+ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:33:9-36:55
+	android:screenOrientation
+		ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:35:13-49
+	android:theme
+		ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:36:13-52
+	android:name
+		ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:34:13-80
+activity#com.imnjh.imagepicker.activity.CaptureConfirmActivity
+ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:37:9-40:55
+	android:screenOrientation
+		ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:39:13-49
+	android:theme
+		ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:40:13-52
+	android:name
+		ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:38:13-81
+activity#com.imnjh.imagepicker.activity.CropImageActivity
+ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:41:9-44:55
+	android:screenOrientation
+		ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:43:13-49
+	android:theme
+		ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:44:13-52
+	android:name
+		ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:42:13-76
+activity#com.imnjh.imagepicker.activity.CaptureTempActivity
+ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:45:9-48:55
+	android:screenOrientation
+		ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:47:13-49
+	android:theme
+		ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:48:13-52
+	android:name
+		ADDED from [com.github.martin90s:ImagePicker:v1.3.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\ImagePicker-v1.3.2.aar\87027144bdd21d95c0929d2c10c067d1\AndroidManifest.xml:46:13-78
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from [com.microsoft.projectoxford:speechrecognition:1.2.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\speechrecognition-1.2.2.aar\75efd4ea8034f74e20ac9c1b93a1edeb\AndroidManifest.xml:13:5-86
+	android:name
+		ADDED from [com.microsoft.projectoxford:speechrecognition:1.2.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\speechrecognition-1.2.2.aar\75efd4ea8034f74e20ac9c1b93a1edeb\AndroidManifest.xml:13:22-83
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\47f47541966c65919edb71733f836e00\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\5faa1f4775dc4c6f8ec3d1556c069250\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\5faa1f4775dc4c6f8ec3d1556c069250\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\9db23322e428c60da5ab725d7f0ba8cb\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\9db23322e428c60da5ab725d7f0ba8cb\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\bcaa32820146bb627f709086745f7a7e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\bcaa32820146bb627f709086745f7a7e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\259042dc636e9f0f2262370e5830866b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\259042dc636e9f0f2262370e5830866b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\61031fcbb4a358490d9a219bebf7d2c2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\61031fcbb4a358490d9a219bebf7d2c2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\40aa3dee4d1e6606e96c29a987695a01\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\40aa3dee4d1e6606e96c29a987695a01\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\ba9659a3699fcfc359a511401e743bbd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\ba9659a3699fcfc359a511401e743bbd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\ae4b358e7b16cc31727d48d73225292a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\ae4b358e7b16cc31727d48d73225292a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\4be2e84ddba1e1338753c7be8b5e6d7a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\4be2e84ddba1e1338753c7be8b5e6d7a\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\47f47541966c65919edb71733f836e00\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\47f47541966c65919edb71733f836e00\AndroidManifest.xml:27:13-51

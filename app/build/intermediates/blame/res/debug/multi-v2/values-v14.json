@@ -1,0 +1,90 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\AndroidProject\\KOE-Voice\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "D:\\AndroidProject\\KOE-Voice\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "8,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "284,220",
+                        "endLines": "10,7",
+                        "endColumns": "12,63",
+                        "endOffsets": "425,279"
+                    },
+                    "to": {
+                        "startLines": "2,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,477",
+                        "endLines": "4,10",
+                        "endColumns": "12,63",
+                        "endOffsets": "196,536"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\47f47541966c65919edb71733f836e00\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "2,7,8,9,15,21,22,23,24,25,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,331,402,485,895,1317,1437,1569,1689,1752,1906,1969",
+                        "endLines": "6,7,8,14,20,21,22,23,24,27,28,29",
+                        "endColumns": "12,70,82,12,12,119,131,119,62,12,62,131",
+                        "endOffsets": "326,397,480,890,1312,1432,1564,1684,1747,1901,1964,2096"
+                    },
+                    "to": {
+                        "startLines": "5,11,12,13,19,25,26,27,28,29,32,33",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "201,541,612,695,1105,1527,1647,1779,1899,1962,2116,2179",
+                        "endLines": "9,11,12,18,24,25,26,27,28,31,32,33",
+                        "endColumns": "12,70,82,12,12,119,131,119,62,12,62,131",
+                        "endOffsets": "472,607,690,1100,1522,1642,1774,1894,1957,2111,2174,2306"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidProject\\KOE-Voice\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "D:\\AndroidProject\\KOE-Voice\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "8,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "284,220",
+                        "endLines": "10,7",
+                        "endColumns": "12,63",
+                        "endOffsets": "425,279"
+                    },
+                    "to": {
+                        "startLines": "2,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,477",
+                        "endLines": "4,10",
+                        "endColumns": "12,63",
+                        "endOffsets": "196,536"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\47f47541966c65919edb71733f836e00\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "2,7,8,9,15,21,22,23,24,25,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,331,402,485,895,1317,1437,1569,1689,1752,1906,1969",
+                        "endLines": "6,7,8,14,20,21,22,23,24,27,28,29",
+                        "endColumns": "12,70,82,12,12,119,131,119,62,12,62,131",
+                        "endOffsets": "326,397,480,890,1312,1432,1564,1684,1747,1901,1964,2096"
+                    },
+                    "to": {
+                        "startLines": "5,11,12,13,19,25,26,27,28,29,32,33",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "201,541,612,695,1105,1527,1647,1779,1899,1962,2116,2179",
+                        "endLines": "9,11,12,18,24,25,26,27,28,31,32,33",
+                        "endColumns": "12,70,82,12,12,119,131,119,62,12,62,131",
+                        "endOffsets": "472,607,690,1100,1522,1642,1774,1894,1957,2111,2174,2306"
+                    }
+                }
+            ]
+        }
+    ]
+}

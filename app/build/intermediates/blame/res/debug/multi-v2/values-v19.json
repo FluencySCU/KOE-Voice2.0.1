@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\AndroidProject\\KOE-Voice\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\ImagePicker-v1.3.2.aar\\87027144bdd21d95c0929d2c10c067d1\\res\\values-v19\\values-v19.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "379"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidProject\\KOE-Voice\\app\\build\\intermediates\\res\\merged\\debug\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\ImagePicker-v1.3.2.aar\\87027144bdd21d95c0929d2c10c067d1\\res\\values-v19\\values-v19.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "379"
+                    }
+                }
+            ]
+        }
+    ]
+}

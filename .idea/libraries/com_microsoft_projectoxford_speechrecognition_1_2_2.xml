@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.microsoft.projectoxford:speechrecognition-1.2.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/speechrecognition-1.2.2.aar/75efd4ea8034f74e20ac9c1b93a1edeb/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/speechrecognition-1.2.2.aar/75efd4ea8034f74e20ac9c1b93a1edeb/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/speechrecognition-1.2.2.aar/75efd4ea8034f74e20ac9c1b93a1edeb/jars/libs/SpeechSDK.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

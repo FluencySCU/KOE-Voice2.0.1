@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\AndroidProject\\KOE-Voice\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\47f47541966c65919edb71733f836e00\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\KOE-Voice\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\bg_toolbar_spinner.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\ImagePicker-v1.3.2.aar\\87027144bdd21d95c0929d2c10c067d1\\res\\drawable-v21\\bg_toolbar_spinner.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\KOE-Voice\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\47f47541966c65919edb71733f836e00\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\KOE-Voice\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\47f47541966c65919edb71733f836e00\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\KOE-Voice\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\47f47541966c65919edb71733f836e00\\res\\drawable-v21\\notification_action_background.xml"
+    }
+]

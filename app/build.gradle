@@ -1,0 +1,81 @@
+apply plugin: 'com.android.application'
+
+android {
+    splits {
+        abi {
+            enable true
+            reset()
+            include 'x86','armeabi-v7a'
+            universalApk true
+        }
+    }
+    compileSdkVersion 26
+    buildToolsVersion '26.0.2'
+    aaptOptions {
+        cruncherEnabled = false
+        useNewCruncher = false
+    }
+    sourceSets {
+        main {
+            jni.srcDirs = []
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+    defaultConfig {
+        applicationId "com.voice"
+        minSdkVersion 15
+        targetSdkVersion 26
+        multiDexEnabled true
+        ndk{
+            abiFilters("armeabi", "armeabi-v7a", "x86", "mips")
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+
+dependencies {
+    compile 'com.github.martin90s:ImagePicker:v1.3.2'
+    compile 'com.github.SilenceDut:jpinyin:v1.0'
+    compile files('libs/achartengine-1.1.0.jar')
+    compile files('libs/zxing-1.6.jar')
+    compile files('libs/musicg-1.4.2.0.jar')
+    compile files('libs/bdasr_V3_20170801_60da871.jar')
+    implementation files('libs/android-async-http-1.4.9.jar')
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
+    compile 'com.microsoft.projectoxford:speechrecognition:1.2.2'
+    compile 'junit:junit:4.12'
+    compile 'com.jakewharton:butterknife:8.8.1'
+    compile 'com.github.hotchemi:permissionsdispatcher:3.0.0'
+    compile 'cz.msebera.android:httpclient:4.3.6'
+    compile 'com.android.support:appcompat-v7:' + rootProject.ext.appcompat7Version
+    compile 'com.android.support:recyclerview-v7:' + rootProject.ext.recyclerviewVersion
+    compile 'org.jsoup:jsoup:1.10.2'
+    compile project(':wavelibrary')
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+    compile 'com.facebook.fresco:fresco:0.14.0'
+    compile 'com.facebook.fresco:imagepipeline-okhttp3:0.14.0'
+    implementation files('libs/recyclerview-v7-25.0.0-sources.jar')
+    compile 'com.squareup.okio:okio:1.12.0'
+    compile 'com.squareup.okhttp3:okhttp:3.7.0'
+    compile 'com.zhy:base-rvadapter:3.0.3'
+    compile 'com.scwang.smartrefresh:SmartRefreshLayout:1.0.3'
+    compile 'com.scwang.smartrefresh:SmartRefreshHeader:1.0.3'
+    implementation files('libs/nineoldandroids-library-2.4.0.jar')
+}
+
+
+
+
+
+

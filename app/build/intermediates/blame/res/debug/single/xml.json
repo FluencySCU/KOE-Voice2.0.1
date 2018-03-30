@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidProject\\KOE-Voice\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preference.xml",
+        "source": "D:\\AndroidProject\\KOE-Voice\\app\\src\\main\\res\\xml\\preference.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\KOE-Voice\\app\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\ImagePicker-v1.3.2.aar\\87027144bdd21d95c0929d2c10c067d1\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\KOE-Voice\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_info.xml",
+        "source": "D:\\AndroidProject\\KOE-Voice\\app\\src\\main\\res\\xml\\widget_info.xml"
+    }
+]
